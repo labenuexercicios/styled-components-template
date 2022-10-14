@@ -11,5 +11,6 @@ npm install styled-components
 ```jsx
 import styled from 'styled-components'
 ```
+[**Link do CodeSandbox para a prática Guiada**](https://codesandbox.io/s/template-styled-components-praticaguiada-6s1cxj)
 
-[**Link do CodeSandbox**](https://codesandbox.io/s/template-de-aula-styled-components-49gwhg)
+[**Link do CodeSandbox para o exercício de fixação**](https://codesandbox.io/s/template-de-aula-styled-components-49gwhg)
