@@ -1,6 +1,6 @@
 # Template - styled-components
 
-Você pode usar este repositório como template, baixando e rodando `npm install`, ou utilizar o Codesandbox.
+Você pode usar este repositório como template, baixando e rodando `npm install` na pasta correspondente, ou utilizar o Codesandbox.
 
 Lembre-se sempre de instalar e importar o styled-components antes de usá-lo.
 
