@@ -1,8 +1,8 @@
-import Garagem from "./Componentes/Garagem";
-import "./styles.css";
+import { Garagem } from "./Componentes/Garagem";
 
 export default function App() {
-  const nome = "Amma";
+  const nome = "Labenu";
+
   function apresentaGaragem() {
     alert(`Boas vindas à garagem de ${nome}`);
   }
