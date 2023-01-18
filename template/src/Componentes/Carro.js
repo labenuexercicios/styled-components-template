@@ -5,7 +5,7 @@ export function Carro(props) {
         <ul>
           <li>Cor: {props.cor}</li>
           <li>Ano: {props.ano}</li>
-          <li>Flex: {props.flex ? "true" : "false"}</li>
+          <li>Flex: {props.flex}</li>
           <li>Adicionado: {props.adicionadoPor}</li>
         </ul>
       </div>
