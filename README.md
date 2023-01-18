@@ -11,6 +11,6 @@ npm install styled-components
 ```jsx
 import styled from 'styled-components'
 ```
-[**Link do CodeSandbox para a aula**](https://codesandbox.io/s/template-de-aula-styled-components-forked-usjls5?file=/src/Componentes/Carro.js)
+[**Link do CodeSandbox para a aula**](https://codesandbox.io/s/template-de-aula-styled-components-njuxrd)
 
 [**Sugestão de layout pro exercicio de fixação**](https://www.figma.com/file/2RxPH2cqcfW355wCyocxgw/Garagem-da-Labenu?node-id=0%3A1)
