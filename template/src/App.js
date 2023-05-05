@@ -1,4 +1,6 @@
-import { Garagem } from "./Componentes/Garagem";
+import { Garagem } from "./Componentes/Garagem/Garagem";
+import styled from "styled-components";
+import { GlobalStyle } from "./GlobalStyle";
 
 export default function App() {
   const nome = "Labenu";
@@ -8,8 +10,11 @@ export default function App() {
   }
 
   return (
-    <div className="App">
-      <Garagem nome={nome} mensagemAprentacao={apresentaGaragem} />
-    </div>
+    <>
+      <GlobalStyle />
+      <div className="App">
+        <Garagem nome={nome} mensagemAprentacao={apresentaGaragem} />
+      </div>
+    </>
   );
 }
